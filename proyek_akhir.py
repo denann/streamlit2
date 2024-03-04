@@ -1,7 +1,5 @@
 import numpy as np
-import pandas as pd # Akses ke Dataframe
-import matplotlib # Grafik visualisasi data statis, animated, dan interaktif
-import seaborn # Grafik visdat yang memanfaatkan matplotlib mirip ggplot
+import pandas as pd 
 import matplotlib.pyplot as plt
 import re
 import seaborn as sns
