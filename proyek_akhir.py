@@ -1,10 +1,8 @@
 import numpy as np
 import pandas as pd # Akses ke Dataframe
-import scipy as sc # Menggunakan numpy untuk komputasi statistik
 import matplotlib # Grafik visualisasi data statis, animated, dan interaktif
 import seaborn # Grafik visdat yang memanfaatkan matplotlib mirip ggplot
 import matplotlib.pyplot as plt
-import sqlalchemy as sqla # SQL
 import re
 import seaborn as sns
 import streamlit as st
